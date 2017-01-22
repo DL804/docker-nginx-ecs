@@ -6,3 +6,5 @@
   + Setup task definition to use container in Dockerhub, tasks, and services
   + Deployed to ECS, open port 8080 for EC2 instance
   + Tested working in browser
+
+EC2 instance link [link](http://54.146.63.73:8080/)
