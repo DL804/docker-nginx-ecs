@@ -7,4 +7,4 @@
   + Deployed to ECS, open port 8080 for EC2 instance
   + Tested working in browser
 
-[EC2 instance link](http://54.87.217.244:8080/)
+
